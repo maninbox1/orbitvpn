@@ -274,10 +274,7 @@ We are not liable for delays or failures due to circumstances beyond our reasona
 
 If you have questions about these Terms, please contact us:
 
-**Email**: [YOUR SUPPORT EMAIL]
-**Website**: [YOUR WEBSITE]
-**Company**: [YOUR COMPANY NAME]
-**Address**: [YOUR COMPANY ADDRESS]
+**Email**: [mikemandev1@gmail.com]
 
 ---
 
