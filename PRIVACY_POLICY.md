@@ -92,7 +92,7 @@ Depending on your location, you may have the following rights:
 - **Correction**: Request correction of inaccurate information
 - **Opt-Out**: Opt out of marketing communications
 
-To exercise these rights, contact us at: [YOUR SUPPORT EMAIL]
+To exercise these rights, contact us at: [mikemandev1@gmail.com]
 
 ## International Data Transfers
 
@@ -124,8 +124,7 @@ Your continued use of the Service after changes constitutes acceptance of the up
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email**: [YOUR SUPPORT EMAIL]
-**Website**: [YOUR WEBSITE]
+**Email**: [mikemandev1@gmail.com]
 
 ---
 
